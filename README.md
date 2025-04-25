@@ -12,6 +12,6 @@ My GitHub profile was generated using ChatGPT-4o Image Generation. [ChatGPT Chat
 노트북에는 개발 툴과 터미널이 표시되어 있고, 채팅으로 대화하는 모습으로 다시 그려줘
 ```
 
-AI virtual human in the picture below is from [Oh-LoRA Project](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_04_08_OhLoRA).
+AI virtual human girl in the picture below is from [Oh-LoRA Project](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_04_08_OhLoRA).
 
 <img src="https://github.com/user-attachments/assets/323ab7f0-4133-447a-9c6b-d76fe3e899e6" width="256" height="256">
