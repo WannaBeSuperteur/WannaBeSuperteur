@@ -6,7 +6,7 @@ My GitHub profile picture was generated using ChatGPT-4o Image Generation. [Chat
 
 AI virtual human girl in the picture below is from [Oh-LoRA Project](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_04_08_OhLoRA).
 
-<img src="https://github.com/user-attachments/assets/323ab7f0-4133-447a-9c6b-d76fe3e899e6" width="160" height="160">
+![image](https://github.com/user-attachments/assets/216ff726-992e-4556-9778-e67ea53dfa67)
 
 ## Interests
 
