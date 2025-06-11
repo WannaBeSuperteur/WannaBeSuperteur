@@ -31,4 +31,4 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
   * 👩‍🦰 [Oh-LoRA version 2](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_05_02_OhLoRA_v2) (**'25.05.02 - 05.21**, 20 days) ```LLM``` ```Image Generation```
   * 🧬 [EffiSegNet Improvement](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_05_22_Improve_EffiSegNet) (**'25.05.22 - 05.26**, 5 days) ```Computer Vision```
   * 🙋‍♀️ [Oh-LoRA version 3](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_05_26_OhLoRA_v3) (**'25.05.26 - 06.05**, 11 days) ```LLM``` ```Image Generation``` ```Computer Vision```
-  * 💁‍♀️ [Oh-LoRA version 3.1](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_06_07_OhLoRA_v3_1) (**'25.06.07 - 06.11**, 5 days 예상) ```Image Generation```
+  * 💁‍♀️ [Oh-LoRA version 3.1](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_06_07_OhLoRA_v3_1) (**'25.06.07 - 06.12**, 6 days 예상) ```Image Generation```
