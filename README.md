@@ -8,6 +8,8 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
 
 ![image](https://github.com/user-attachments/assets/216ff726-992e-4556-9778-e67ea53dfa67)
 
+**I'm improving technical & communication skills! Feel free to give me feedbacks!**
+
 ## Interests
 
 * 📷 Computer Vision
