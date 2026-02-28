@@ -27,7 +27,7 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
     * 📄 [Paper Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/Paper%20Study) (LLM & for AI Projects & etc.) (**'25.03.12 -**)
     * 🌏 [AI Trend](https://github.com/WannaBeSuperteur/AI-study/tree/main/AI%20Trend) (updated almost everyday) (**'23.11.17 -**)
   * LangChain Study
-    * 🦜 [LangChain Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/LangChain%20Study) (**'26.02.15 - '26.02.24**, 10 days)
+    * 🦜 [LangChain Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/LangChain%20Study) (**'26.02.15 - '26.02.28**, 14 days)
 
 * 🔮 [AI Projects](https://github.com/WannaBeSuperteur/AI_Projects/tree/main)
   * 📊 [Diagram Generation using DeepSeek LLM](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_03_12_DeepSeek_LLM) (**'25.03.12 - 03.27**, 16 days) ```LLM``` ```Computer Vision```
