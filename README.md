@@ -40,4 +40,4 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
   * 👩‍🏫 [Oh-LoRA ML Tutor](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_07_02_OhLoRA_ML_Tutor) (**'25.07.02 - 09.25**) ```LLM```
   * 👩‍🔬 [Oh-LoRA Hyper-Param Battle](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_10_06_OhLoRA_HP_Battle) (**'25.10.06 - 10.11** + **'26.03.15 - 06.07**) ```LLM``` ```Computer Vision```
 
-* 🐍 [Python Study](https://github.com/WannaBeSuperteur/Python-study-2026) (**'26.07.10 - 08.02**, 24 days)
+* 🐍 [Python Study](https://github.com/WannaBeSuperteur/Python-study-2026) (**'26.07.10 - 08.04**, 26 days)
