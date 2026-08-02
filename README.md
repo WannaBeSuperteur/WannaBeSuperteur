@@ -27,7 +27,7 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
     * 📄 [Paper Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/Paper%20Study) (LLM & for AI Projects & etc.) (**'25.03.12 -**)
     * 🌏 [AI Trend](https://github.com/WannaBeSuperteur/AI-study/tree/main/AI%20Trend) (updated almost everyday) (**'23.11.17 -**)
   * LangChain Study
-    * 🦜 [LangChain Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/LangChain%20Study) (**'26.02.15 - '26.02.28**, 14 days)
+    * 🦜 [LangChain Study](https://github.com/WannaBeSuperteur/AI-study/tree/main/LangChain%20Study) (**'26.02.15 - '02.28**, 14 days)
 
 * 🔮 [AI Projects](https://github.com/WannaBeSuperteur/AI_Projects/tree/main)
   * 📊 [Diagram Generation using DeepSeek LLM](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_03_12_DeepSeek_LLM) (**'25.03.12 - 03.27**, 16 days) ```LLM``` ```Computer Vision```
@@ -40,4 +40,6 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
   * 👩‍🏫 [Oh-LoRA ML Tutor](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_07_02_OhLoRA_ML_Tutor) (**'25.07.02 - 09.25**) ```LLM```
   * 👩‍🔬 [Oh-LoRA Hyper-Param Battle](https://github.com/WannaBeSuperteur/AI_Projects/tree/main/2025_10_06_OhLoRA_HP_Battle) (**'25.10.06 - 10.11** + **'26.03.15 - 06.07**) ```LLM``` ```Computer Vision```
 
-* 🐍 [Python Study](https://github.com/WannaBeSuperteur/Python-study-2026) (**'26.07.10 - 08.02**, 24 days)
+* Python & Spark Study
+  * 🐍 [Python Study](https://github.com/WannaBeSuperteur/Python-study-2026) (**'26.07.10 - 08.02**, 24 days)
+  * ⚡ [Spark Study (PySpark)](https://github.com/WannaBeSuperteur/Spark-Study-2026) (**'26.08.02 - 08.15**, 14 days)
