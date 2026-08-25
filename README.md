@@ -44,4 +44,4 @@ AI virtual human girl in the picture below is from [Oh-LoRA Project](https://git
   * 🐍 [Python Study](https://github.com/WannaBeSuperteur/Python-study-2026) (**'26.07.10 - 08.02**, 24 days)
   * ⚡ [Spark Study (PySpark)](https://github.com/WannaBeSuperteur/Spark-Study-2026) (**'26.08.02 - 08.16**, 15 days)
   * 🌬️ [Airflow Study](https://github.com/WannaBeSuperteur/Airflow-study-2026) (**'26.08.17 - 08.18**, 2 days)
-  * 🗄️ [SQL Study](https://github.com/WannaBeSuperteur/SQL-Study-2026) (**'26.08.19 - 08.25**, 7 days)
+  * 🗄️ [SQL Study](https://github.com/WannaBeSuperteur/SQL-Study-2026) (**'26.08.19 - 08.26**, 8 days)
